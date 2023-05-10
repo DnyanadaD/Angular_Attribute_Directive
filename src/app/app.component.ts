@@ -7,4 +7,8 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'attribute_directive';
+  //2nd method
+  //color = 'yellow';
+  //3rd method
+  color=' ';
 }
